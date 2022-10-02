@@ -23,14 +23,6 @@ Scans all running processes. Recognizes and dumps a variety of potentially malic
 📖 [Read Wiki](https://github.com/hasherezade/hollows_hunter/wiki)
 
 
-## Clone
-
-Use recursive clone to get the repo together with all the submodules:
-
-```console
-git clone --recursive https://github.com/hasherezade/hollows_hunter.git
-```
-
 ## Builds
 
 Download the latest [release](https://github.com/hasherezade/hollows_hunter/releases), or [read more](https://github.com/hasherezade/hollows_hunter/wiki#download).
